@@ -3,7 +3,7 @@
 
  Alura plus é um site feito em react para mostrar o serviço do alura plus, feito para treinar e experimentar com o css e react.
 
-<img src='./public/img/ALuraPlus.png'/>
+<img src='./public/img/AluraPlus.png'/>
 
  ## :hammer: Funcionalidades do projeto
 
