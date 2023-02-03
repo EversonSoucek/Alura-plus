@@ -1,0 +1,14 @@
+.secundario__imagem__computador{
+    width: 498px;
+}
+
+.secundario__imagem__celular{
+    position: absolute;
+}
+
+.container__secundario {
+    align-items: center;
+    margin: 0 10em
+  }
+
+

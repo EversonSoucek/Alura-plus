@@ -1,18 +1,15 @@
+.cabecalho {
+    background-size: contain;
+    align-items: center;
+    text-align: center;
+    background-image: url("../../../public/img/Banner.png");
+    background-repeat: no-repeat;
+}
+
 .container__imagem {
     margin: 1em 0 2em 0;
 }
 
 .container__caixa {
     margin: 0 6em;
-}
-
-.container {
-    display: grid;
-    grid-template-columns: 50% 50%;
-    background-image: url("../../../public/img/Banner.png");
-    background-repeat: no-repeat;
-    height: 100vh;
-    background-size: contain;
-    align-items: center;
-    text-align: center;
 }

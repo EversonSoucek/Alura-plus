@@ -1,0 +1,11 @@
+.lista__link{
+    margin: 0.5em;
+    text-decoration: none;
+    list-style-type: none;
+    color: var(--branco);
+    font-size: 16px;
+}
+
+.lista__link a:hover{
+    color: var(--azul);
+}

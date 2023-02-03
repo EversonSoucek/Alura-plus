@@ -1,7 +1,9 @@
 # Alura Plus
- <img src="https://img.shields.io/badge/Status-Em%20Progresso-yellow">
+ <img src="https://img.shields.io/badge/Status-Completo-green">
 
  Alura plus é um site feito em react para mostrar o serviço do alura plus, feito para treinar e experimentar com o css e react.
+
+<img src='./public/img/ALuraPlus.png'/>
 
  ## :hammer: Funcionalidades do projeto
 

@@ -1,0 +1,21 @@
+.container__secundario {
+    display: grid;
+    grid-template-columns: 50% 50%;
+    height: 100vh;
+    align-items: center;
+    margin: 0 10em
+  }
+
+.tela1{
+    width: 498px;
+}
+
+.tela2{
+    position: absolute;
+    margin-left: 825px;
+    width: 498px;
+}
+
+.botao__secundario{
+    margin-top: 10px;
+}
